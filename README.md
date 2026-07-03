@@ -49,8 +49,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: Coming Soon
+- 📧 Email: program102015@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/giri-t-3b24a828b?
 
 ---
 
