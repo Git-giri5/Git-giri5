@@ -1,13 +1,13 @@
-<!-- ===========================
-     GITHUB PROFILE README
-     By Giri
-=========================== -->
+<!-- =========================================
+     PREMIUM CYBERPUNK GITHUB PROFILE README
+     Author: Giri
+========================================= -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=000000&text=GIRI&fontColor=00FF41&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20Java%20Developer%20|%20Problem%20Solver&descAlignY=58&descColor=00FF41"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=>+System+Booting...;%3E+Welcome+to+Giri's+GitHub;%3E+Java+Developer;%3E+Full+Stack+Learner;%3E+LeetCode+Daily;%3E+Always+Building..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%3E+System+Booting...;%3E+Welcome+to+Giri's+GitHub;%3E+Java+Developer;%3E+Full+Stack+Learner;%3E+LeetCode+Daily;%3E+Always+Building..."/>
 
 <br>
 
@@ -23,17 +23,28 @@
 
 # 💻 WHOAMI
 
-<img align="right" width="360" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<img align="right" width="360" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-```
-> whoami
+```bash
+┌──(giri㉿github)-[~/profile]
+└─$ whoami
 
-Name      : Giri
-Role      : Aspiring Software Engineer
-Education : B.Tech Computer Science (2027)
-Location  : India
+👨‍💻 Giri
+💻 Java Developer
+🌱 Full Stack Learner
+📚 LeetCode Enthusiast
+🚀 Future Software Engineer
 
-Status    : Learning...
+----------------------------------
+
+$ current_status
+
+Learning Java...
+Building Projects...
+Improving DSA...
+Preparing for Placements...
+
+Status: █████████░ 90%
 ```
 
 ### 👨‍💻 About Me
@@ -41,7 +52,7 @@ Status    : Learning...
 ```java
 public class Giri {
 
-    String role = "Software Engineer";
+    String role = "Aspiring Software Engineer";
 
     String[] skills = {
         "Java",
@@ -61,12 +72,12 @@ public class Giri {
 }
 ```
 
-- 💻 Java Developer
-- 🚀 Passionate Problem Solver
-- 📚 Solving LeetCode Daily
-- 🌱 Learning Full Stack Development
-- ⚡ Always Building Projects
-- 🎯 Open Source Enthusiast
+* 💻 Java Developer
+* 🚀 Passionate Problem Solver
+* 📚 Solving LeetCode Daily
+* 🌱 Learning Full Stack Development
+* ⚡ Always Building Projects
+* 🎯 Open Source Enthusiast
 
 ---
 
@@ -80,13 +91,25 @@ public class Giri {
 
 ---
 
+# 🧠 LEETCODE
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Git-giri5?theme=dark&font=JetBrains%20Mono"/>
+
+</div>
+
+> Replace `Git-giri5` above if your LeetCode username is different.
+
+---
+
 # 📈 GITHUB STATS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Git-giri5&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Git-giri5&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Git-giri5&theme=highcontrast&hide_border=true&background=000000"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Git-giri5&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -94,17 +117,7 @@ public class Giri {
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-giri5&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000"/>
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Git-giri5&theme=matrix&no-frame=true&margin-w=15&column=4"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-giri5&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -117,6 +130,30 @@ public class Giri {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-giri5&theme=github-dark&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
 
 </div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+| Project                       | Description                              |
+| ----------------------------- | ---------------------------------------- |
+| ☁️ Cloud File Storage         | Secure cloud storage with authentication |
+| 🔐 Real-Time Threat Detection | ML-based log analysis and alerts         |
+| 📊 Live Log Analysis          | Real-time system log monitoring          |
+| 💻 LeetCode Solutions         | Daily Java DSA practice                  |
+
+---
+
+# ⚡ SKILLS
+
+| Skill           | Progress   |
+| --------------- | ---------- |
+| ☕ Java          | ██████████ |
+| 🗄 SQL          | ████████░░ |
+| 🌐 HTML/CSS     | █████████░ |
+| ⚡ JavaScript    | ██████░░░░ |
+| 🔀 Git & GitHub | ████████░░ |
+| 📚 DSA          | ███████░░░ |
 
 ---
 
@@ -134,45 +171,18 @@ public class Giri {
 
 ---
 
-# 💻 TERMINAL
-
-```bash
-$ java --version
-
-OpenJDK 21
-
-$ git status
-
-On branch main
-
-Your future is under construction...
-
-$ whoami
-
-Giri
-
-$ echo "Keep Learning."
-
-Keep Learning.
-```
-
----
-
 # 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://linkedin.com/in/giri-t-3b24a828b">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
-</a>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/></a>
 
 <a href="mailto:program102015@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41"/>
-</a>
+<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41"/></a>
 
 <a href="https://github.com/Git-giri5">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
-</a>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41"/></a>
 
 </div>
 
@@ -192,7 +202,17 @@ Keep Learning.
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+# 😂 PROGRAMMER JOKE
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark"/>
 
 </div>
 
@@ -217,5 +237,9 @@ If you like my work,
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=000000"/>
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=00FF41&size=18&center=true&vCenter=true&width=500&lines=Keep+Learning.;Keep+Building.;Keep+Growing."/>
 
 </div>
