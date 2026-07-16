@@ -1,147 +1,221 @@
+<!-- ===========================
+     GITHUB PROFILE README
+     By Giri
+=========================== -->
+
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Giri
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=000000&text=GIRI&fontColor=00FF41&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20Java%20Developer%20|%20Problem%20Solver&descAlignY=58&descColor=00FF41"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+Developer;Problem+Solver;Full+Stack+Learner;Open+Source+Enthusiast;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=>+System+Booting...;%3E+Welcome+to+Giri's+GitHub;%3E+Java+Developer;%3E+Full+Stack+Learner;%3E+LeetCode+Daily;%3E+Always+Building..."/>
 
-<img src="https://komarev.com/ghpvc/?username=Git-giri5&label=Profile+Views&color=00ffff&style=for-the-badge" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Git-giri5&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Git-giri5?style=for-the-badge&logo=github&color=00ff41"/>
+
+<img src="https://img.shields.io/github/stars/Git-giri5?style=for-the-badge&logo=github&color=00ff41"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+# 💻 WHOAMI
 
-# 💻 About Me
+<img align="right" width="360" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+
+```
+> whoami
+
+Name      : Giri
+Role      : Aspiring Software Engineer
+Education : B.Tech Computer Science (2027)
+Location  : India
+
+Status    : Learning...
+```
+
+### 👨‍💻 About Me
 
 ```java
-class Giri {
+public class Giri {
 
-    String role = "Aspiring Software Engineer";
-    String education = "B.Tech Computer Science (2027)";
-    String[] learning = {
+    String role = "Software Engineer";
+
+    String[] skills = {
         "Java",
         "SQL",
         "Git",
         "GitHub",
-        "Full Stack Development",
-        "Data Structures & Algorithms"
+        "HTML",
+        "CSS",
+        "JavaScript"
     };
 
-    String goal = "Crack Top Product Company";
+    String learning =
+        "Data Structures, Algorithms, Full Stack";
+
+    String goal =
+        "Top Product Company";
 }
 ```
 
-- 🎓 B.Tech Computer Science Engineering (2027)
-- 💻 Passionate Java Developer
+- 💻 Java Developer
+- 🚀 Passionate Problem Solver
+- 📚 Solving LeetCode Daily
 - 🌱 Learning Full Stack Development
-- ⚡ Solving LeetCode Daily
-- 🚀 Building Real World Projects
-- 🎯 Future Software Engineer
-- ❤️ Love Clean Code & Problem Solving
+- ⚡ Always Building Projects
+- 🎯 Open Source Enthusiast
 
 ---
 
-# ⚡ Tech Stack
+# ⚙ TECH STACK
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,mysql,git,github,html,css,js,vscode,linux&theme=dark"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GITHUB STATS
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Git-giri5&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Git-giri5&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Git-giri5&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Git-giri5&theme=highcontrast&hide_border=true&background=000000"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-giri5&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Git-giri5&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-giri5&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Current Goals
-
-```text
-✔ Master Java
-✔ Learn Advanced DSA
-✔ Build Scalable Full Stack Projects
-✔ Open Source Contributions
-✔ Crack Software Engineer Interviews
-✔ Learn System Design
-✔ Become Better Every Day
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/giri-t-3b24a828b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:program102015@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Git-giri5">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Git-giri5/Git-giri5/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ Hacker Mode
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-giri5&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000"/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700">
+</div>
 
-### "First, solve the problem. Then, write the code."
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=120&section=footer"/>
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Git-giri5&theme=matrix&no-frame=true&margin-w=15&column=4"/>
+
+</div>
+
+---
+
+# 📊 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-giri5&theme=github-dark&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 CURRENT MISSION
+
+```text
+[✔] Master Java
+[✔] Learn Advanced DSA
+[✔] Build Full Stack Projects
+[✔] Learn Spring Boot
+[✔] Contribute to Open Source
+[✔] Crack Software Engineer Interviews
+[✔] Never Stop Learning
+```
+
+---
+
+# 💻 TERMINAL
+
+```bash
+$ java --version
+
+OpenJDK 21
+
+$ git status
+
+On branch main
+
+Your future is under construction...
+
+$ whoami
+
+Giri
+
+$ echo "Keep Learning."
+
+Keep Learning.
+```
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://linkedin.com/in/giri-t-3b24a828b">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
+</a>
+
+<a href="mailto:program102015@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41"/>
+</a>
+
+<a href="https://github.com/Git-giri5">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Git-giri5/Git-giri5/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ⚡ RANDOM DEV QUOTE
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+# ☕ SUPPORT
+
+<div align="center">
+
+If you like my work,
+
+⭐ Star my repositories
+
+🤝 Follow my GitHub journey
+
+🚀 Let's build amazing things together.
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=000000"/>
 
 </div>
