@@ -106,9 +106,6 @@ public class Giri {
 
 <div align="center">
 
- <img width="420"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-giri5&layout=compact&theme=tokyonight"/>
-
 
 <img height="180" src="https://streak-stats.demolab.com?user=Git-giri5&theme=github-dark&hide_border=true"/>
 
@@ -116,10 +113,6 @@ public class Giri {
 
 ---
 
-<div align="center">
-  <img width="420"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-giri5&layout=compact&theme=tokyonight"/>
-</div>
 
 ---
 
