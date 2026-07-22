@@ -95,7 +95,7 @@ public class Giri {
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Git-giri5?theme=dark&font=JetBrains%20Mono"/>
+<img src="https://leetcode.com/u/GIRI_T/"/>
 
 </div>
 
