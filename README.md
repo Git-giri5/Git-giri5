@@ -95,11 +95,10 @@ public class Giri {
 
 <div align="center">
 
-<img src="https://leetcode.com/u/GIRI_T/"/>
+<img src="https://leetcard.jacoblin.cool/GIRI_T?theme=dark&font=JetBrains%20Mono"/>
 
 </div>
 
-> Replace `Git-giri5` above if your LeetCode username is different.
 
 ---
 
